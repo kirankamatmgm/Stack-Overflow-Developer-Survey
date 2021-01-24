@@ -36,6 +36,7 @@ This github repo contains
 Dataset.md : which tells every detail of dataset used.
 Can we guess if Formal Education or contributing to opensource or working in which part of the world earns us more salary.ipynb : this is jupyter notebook containing all the code.
 README.md : contain every detail about the project.
+Blog.md : contains Blog in markdown format
 
 ## summary of the project <a name="summary"></a>
 
