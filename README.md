@@ -12,10 +12,10 @@ Analysis on Stack Overflow Annual Developer Survey data from 2017 to 2020
 ## Installation <a name="installation"></a>
 Installations
 This project requires Python 3.x and the following Python libraries installed:
-seaborn==0.10.0
-pandas==1.1.5
-numpy==1.18.5
-matplotlib==3.2.1
+- seaborn==0.10.0
+- pandas==1.1.5
+- numpy==1.18.5
+- matplotlib==3.2.1
 
 I am running notebook on kaggle, clone it from [here](https://www.kaggle.com/kirankamat/stack-overflow-annual-developer-survey-analysis)
 
