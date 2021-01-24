@@ -36,7 +36,7 @@ I took the data from stackoverflow survey from 2017 to 2020 and tried to answer 
 
 ## summary of the project <a name="summary"></a>
 
-The main findings of the code can be found at the post available [here]().
+The main findings of the code can be found at the post available [here](https://kirankamath.hashnode.dev/can-we-guess-if-formal-education-or-contributing-to-opensource-or-working-in-which-part-of-the-world-earns-us-more-salary).
 
 ## Licensing and Acknowledgements<a name="licensing"></a>
 
