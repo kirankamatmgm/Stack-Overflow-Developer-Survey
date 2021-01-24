@@ -1,6 +1,9 @@
 # Stack-Overflow-Developer-Survey
 Analysis on Stack Overflow Annual Developer Survey data from 2017 to 2020
 
+Links to Blog post  
+My Blog post is originally published in Hashnode [here](https://kirankamath.hashnode.dev/can-we-guess-if-formal-education-or-contributing-to-opensource-or-working-in-which-part-of-the-world-earns-us-more-salary) and imported to Medium [here](https://kirankamath7.medium.com/can-we-guess-if-formal-education-or-contributing-to-opensource-or-working-in-which-part-of-the-2de04fcf8097)
+
 ### Table of Contents
 
 1. [Installation](#installation)
